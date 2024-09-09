@@ -1,3 +1,8 @@
 com\example\demo\DemoApplication.class
-com\example\App.class
 com\example\demo\HelloController.class
+com\example\demo\service\BankAccountService.class
+com\example\demo\controller\BankAccountController.class
+com\example\demo\config\SwaggerConfig.class
+com\example\demo\repository\BankAccountRepository.class
+com\example\App.class
+com\example\demo\model\BankAccount.class
